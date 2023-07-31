@@ -12,7 +12,7 @@ class _LoadingState extends State<Loading> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Loading'),
+        title: const Scaffold(),
       ),
     );
   }
