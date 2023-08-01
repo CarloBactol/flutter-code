@@ -11,5 +11,6 @@
         "Dart-Code.flutter"
       ]
     }
-  }
+  },
+  "remoteEnv":  { "PATH": "$PATH:$HOME/.pub-cache/bin" }
 }
